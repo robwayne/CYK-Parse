@@ -1,6 +1,6 @@
 # CYK-Parse
 Robust CYK-Parse (on CNF strings) with easy CYK-Parse-Tree Retrieval.
-Based on algorithm described by Ernest Davis (https://cs.nyu.edu/faculty/davise/ai/)
+Based on algorithm described by [Ernest Davis](https://cs.nyu.edu/faculty/davise/ai/)
 
 1. This program is written using Python3.5
 2. The files that are contained with the main py file (cyk_parser.py) are necessary and must be in the same directory as the main file
