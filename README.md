@@ -1,2 +1,2 @@
 # CYK-Parse
-Robust CYK-Parse with easy Tree Retrieval
+Robust CYK-Parse (on CNF strings) with easy CYK-Parse-Tree Retrieval
